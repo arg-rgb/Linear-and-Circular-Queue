@@ -121,7 +121,7 @@ If you encounter build issues or have questions on algorithm internals, open a d
 
 Master these queue implementations to solidify your understanding of **FIFO data-structures**, dynamic memory usage, and pointer arithmetic—cornerstones of efficient systems programming.
 
-<div style="text-align: center">⁂</div>
+<div style="text-align: center"></div>
 
 For questions, suggestions, or contributions, please contact -
 **Author** : Argha Ghosh. <br>
