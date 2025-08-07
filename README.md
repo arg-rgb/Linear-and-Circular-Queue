@@ -115,11 +115,6 @@ Yes—by shifting all elements left, but that incurs O(n) per dequeue and defeat
 **Q3: How big should my initial queue be?**
 Start small (e.g., 8 or 16 elements) and rely on dynamic expansion. Heap-growth is amortised and rarely a bottleneck in typical workloads.
 
-## 10. Getting Help
-
-If you encounter build issues or have questions on algorithm internals, open a discussion in the repository’s *Discussions* tab or start a new issue with a clear title and reproduction steps. The community monitors queries weekdays 10:00–18:00 IST.
-
-Master these queue implementations to solidify your understanding of **FIFO data-structures**, dynamic memory usage, and pointer arithmetic—cornerstones of efficient systems programming.
 
 <div style="text-align: center"></div>
 
